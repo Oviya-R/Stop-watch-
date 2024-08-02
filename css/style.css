@@ -1,0 +1,30 @@
+.time{
+    font-size: 100px;
+    color: white;
+    font-family:sans-serif;
+}
+button{
+    background-color: red;
+    padding: 10px;
+    width: 70px;
+    border-radius: 6px;
+    margin: 2px;
+}
+.btn{
+    margin: 20px;
+}
+#lap1{
+   margin-left: 100px;
+   color: white;
+   font-family:sans-serif;
+}
+.body{
+    background-color: #374a58;
+    width: 390px;
+    padding: 30px;
+}
+.background{
+    background-color: black;
+    padding: 50px;
+    width: 455px;
+}
